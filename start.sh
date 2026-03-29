@@ -27,10 +27,10 @@ fi
 
 # Banner
 clear
-   echo -e "${red}█   ▄▀█ █▀▄▀█   █░█ ▄▀█ █▀▀ █▄▀ █▀▀ █▀█${reset}"
-echo -e "${yellow}█   █▀█ █░▀░█   █▀█ █▀█ █▄▄ █░█ ██▄ █▀▄${reset}"  
+echo -e "${red}█   ▄▀█ █▀▄▀█   █░█ ▄▀█ █▀▀ █▄▀ █▀▀ █▀█${reset}"
+echo -e "${red}█   █▀█ █░▀░█   █▀█ █▀█ █▄▄ █░█ ██▄ █▀▄${reset}"  
                   
-            echo -e "${green}🅢🅞🅑🅐🅝 🅗🅐🅒🅚🅔🅡${reset}"
+echo -e "${green}🅢🅞🅑🅐🅝 🅗🅐🅒🅚🅔🅡${reset}"
 echo ""
 echo -e "${cyan}--------------------------------------------${reset}"
 echo -e "${green}  Created by: Soban Haider${reset}"
